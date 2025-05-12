@@ -11,7 +11,6 @@
 | Student Id | Student Name |
 | ------------- | ------------- |
 | TC-22029 | Ali Un Naqi Naqvi |
-| TC-22032 | Salah Ahmad |
 | TC-22038 | Mohammad Shayan |
 | TC-22039 | Muhammad Aun Naqavi |
 
